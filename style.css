@@ -1,3 +1,7 @@
+section {
+    margin-top: 100px;
+}
+
 .orange {
     color: orange;
 }
@@ -25,4 +29,64 @@ h1 {
     background-color: tomato;
     padding: 10px 20px;
     border-radius: 30px;
+}
+
+.middle {
+    background-image: url(images/7.png);
+    display: flex;
+}
+
+.mid-part {
+    width: 50%;
+}
+
+.mid-part img {
+    width: 60%;
+}
+
+.mid-part h2 {
+    padding-top: 20%;
+}
+
+.bottom-intro {
+    text-align: center;
+}
+
+.bottom {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.bottom-part {
+
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px gray;
+
+
+}
+
+#left-bottom img {
+    width: 60%;
+}
+
+#left-bottom {
+    padding-left: 20%;
+    padding-top: 5%;
+
+
+}
+
+#right-bottom img {
+    width: 70%;
+
+}
+
+#right-bottom {
+    padding-right: 10%;
+    padding-left: 20%;
+    padding-top: 5%;
 }
