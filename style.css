@@ -1,3 +1,28 @@
 .orange {
     color: orange;
 }
+
+h1 {
+    font-size: 60px;
+}
+
+.top {
+    display: flex;
+}
+
+.top-part {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.top-part img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
