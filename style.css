@@ -91,14 +91,26 @@ h1 {
     padding-top: 5%;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .finishing {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 11%;
+    margin-right: 11%;
+
+
 }
 
 .finishing-part {
     display: flex;
-
-    width: 80%;
     box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+
+.finishing-part div {
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
